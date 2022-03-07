@@ -12,6 +12,7 @@
 
 # _**Surf.**_
 
+
 ## 🏄‍♂️&nbsp;&nbsp;내 인생 성장곡선 사이트&nbsp;&nbsp;_**Surf.**_
 
 <!-- 가운데에 멍멍이 로고 넣고 밑에 프로젝트 소개 -->
@@ -106,6 +107,9 @@ suffering 또한 피할 수 없다.
 
 ## 🗂 협업 문서
 <a href="https://www.notion.so/backend-devcourse/8-Ah-puh-Surf-ccc0a5922b8e4f638d6e897b4eb575a6">노션 구경가기 👈🏻</a>
+<br>
+<a href="https://github.com/prgrms-web-devcourse/Team_Ahpuh_Surf_FE">원본 branch 바로가기 👈🏻</a>
+
 <br>
 <br>
 
